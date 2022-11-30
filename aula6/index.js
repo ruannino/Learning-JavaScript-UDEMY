@@ -5,7 +5,7 @@
 // Utilizamos camelCase
 // Case-sensitive
 // Não podemos redeclarar variáveis com let
-// Não utilizr VAR, utilize LET
+// Não utilize VAR, utilize LET
 
 let nomeCliente = 'Luiz';
 let nomecliente = 'Otávio';
