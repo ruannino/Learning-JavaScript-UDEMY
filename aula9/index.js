@@ -8,7 +8,7 @@ console.log(nome);
 
 const nome1 = 'Luiz';
 const nome2 = "Luiz";
-const nome3 = `Luiz`;
+const nome3 = `Luiz`; 
 const num1 = 10;
 const num2 = 10.52;
 let nomeAluno; // undefined = não aponta pra local nenhum na memória
